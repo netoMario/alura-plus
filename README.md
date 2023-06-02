@@ -2,14 +2,10 @@
 
 ![image](https://github.com/netoMario/alura-plus/blob/main/assets/alura-plus-print.png?raw=true)
 
-## Ferramentas utilizadas:
+## 🚀 Ferramentas utilizadas:
 
 * HTML
 
 * CSS
 
 * Flex-box
-
-## Feito por:
-
-### Mário Neto
